@@ -8,5 +8,6 @@ public class CompaniesBandh {
         System.out.println("3-commit");
         System.out.println("4-commit");
         System.out.println("5-commit");
+        System.out.println("6-commit");
     }
 }
